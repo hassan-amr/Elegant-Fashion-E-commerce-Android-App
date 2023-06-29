@@ -4,7 +4,7 @@
 ### <p align="center">Hi there, I'm Hassan Amr 👋</p>
 <p align="center">
   <a href="mailto:hassan.amr.soliman@gmail.com" target="_blank">
-    <img src="https://github.com/hassan-amr/Elegant-Fashion-E-commerce-Android-App/blob/main/images/gmail.png" width="50" height="50">
+    <img src="https://github.com/hassan-amr/Elegant-Fashion-E-commerce-Android-App/blob/main/images/gmail.png" width="50" height="38">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/hassan-amr-684a851ba" target="_blank">
