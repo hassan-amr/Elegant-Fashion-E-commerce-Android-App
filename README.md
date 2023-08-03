@@ -191,7 +191,7 @@
   </tr>
 </table>
 
-## ✅ Elegant Fashio (Admin) App Screenshots
+## ✅ Elegant Fashion (Admin) App Screenshots
 <table>
   <tr>
     <td><img src="https://github.com/hassan-amr/Elegant-Fashion-E-commerce-Android-App/blob/main/images/admin_screenshots/P1.png"></td>
